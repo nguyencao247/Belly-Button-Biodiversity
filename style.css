@@ -1,0 +1,12 @@
+
+body {
+    font-family: 'Trebuchet MS', sans-serif;
+    background-color: #F5F5F5;
+  }
+
+  .jumbotron {
+    background-image: url("../images/jumbotron.jpg");
+    height: 250px;
+    text-align: center;
+  }
+
